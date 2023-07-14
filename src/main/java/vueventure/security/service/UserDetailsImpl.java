@@ -1,4 +1,4 @@
-package vueventure.config;
+package vueventure.security.service;
 
 import java.util.Collection;
 import java.util.List;
